@@ -9,3 +9,5 @@
     "info"              "A mod with which you can modify DarkRP"
     "override"          "0"
 }
+
+test
